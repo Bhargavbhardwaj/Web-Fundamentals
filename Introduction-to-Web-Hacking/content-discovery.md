@@ -168,3 +168,15 @@ May reveal:
 
 ✅ Room Completed: Content Discovery
 AUTHOR - Bhargav Bhardwaj
+
+### Finshed the room - Subdomain Enumeration
+
+Subdomain enumeration is the process of finding valid subdomains for a domain, but why do we do this? We do this to expand our attack surface to try and discover more potential points of vulnerability.
+
+We will explore three different subdomain enumeration methods: Brute Force, OSINT (Open-Source Intelligence) and Virtual Host.
+
+# Learned about:
+- OSINT - SSL/TLS certificates
+- OSINT Search Engines
+- DNS brute force
+- OSINT-sublist3r
