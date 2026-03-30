@@ -21,12 +21,14 @@ It covers core concepts, vulnerabilities, tools, and practical techniques requir
 
 - **SQL Injection (SQLi)**
 - **Command Injection**
-- **Race Conditions**
+- **Content Discovery**
 - **Authentication & Logic Flaws**
 - **Network Protocols & Traffic Analysis**
 - **Wireshark Basics**
 - **Web Requests & Responses**
-- **Client-Server Model**
+- **Authentication Bypass & IDOR**
+- **Pickle Rick**
+- **OWASP Juice Shop**
 
 ---
 
